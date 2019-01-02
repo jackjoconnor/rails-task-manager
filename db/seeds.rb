@@ -38,7 +38,7 @@ Task.create([
       },
 
       { title: "Clean my room", 
-        details: "It's that time of year again.",
+        details: "It's that time of month again.",
         completed: ["true", "false"].sample
       },
 
@@ -50,7 +50,7 @@ Task.create([
 
       {
         title: "Work on Mini-Project", 
-        details: "What is Ruby on Rails anyway?",
+        details: "What is the Ruby on Rails anyway?",
         completed: ["true", "false"].sample
       },
 
